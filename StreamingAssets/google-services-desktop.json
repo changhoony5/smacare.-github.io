@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923658113474",
+    "project_id": "dp-dtx-003",
+    "storage_bucket": "dp-dtx-003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923658113474:android:de7843f348ae436c29865b",
+        "android_client_info": {
+          "package_name": "kr.co.ariacare.smacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923658113474-mlv72f2vmt9pe5j8gk4oehbh242k0lh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ayv-5HJJ_BsejY2RV0U9VR2VvUpqy7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923658113474-mlv72f2vmt9pe5j8gk4oehbh242k0lh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
