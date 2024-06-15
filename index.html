@@ -26,6 +26,11 @@
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
       var warningBanner = document.querySelector("#unity-warning");
       
+      function CloseBrowserTab() {
+            unityInstance.Quit().then(function() {
+            unityInstance = null;
+      });
+        
       function isFullscreen()
       {
         return document.fullscreenElement !== null && document.fullscreenElement
