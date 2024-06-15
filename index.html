@@ -19,6 +19,7 @@
       <div id="unity-warning"> </div>
     </div>
     <script>
+      var unityInstance = null;
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
       var loadingBar = document.querySelector("#unity-loading-bar");
@@ -30,7 +31,7 @@
             unityInstance.Quit().then(function() {
             unityInstance = null;
       });
-        
+      
       function isFullscreen()
       {
         return document.fullscreenElement !== null && document.fullscreenElement
@@ -138,9 +139,9 @@
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
-        }).then((unityInstance) => {
+        }).then((instance) => {
           loadingBar.style.display = "none";
-
+          unityInstance = instance;
           // If you want to warn the player before they close the tab,
           // uncomment the following:
           //window.onbeforeunload = confirmUnload;
