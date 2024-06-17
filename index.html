@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity Web Player | 스마케어</title>
+    <title>Unity Web Player | 히어로</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=750 height=1334 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=360 height=700 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -20,7 +20,7 @@
       <div id="unity-footer">
         <div id="unity-logo-title-footer"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">스마케어</div>
+        <div id="unity-build-title">히어로</div>
       </div>
     </div>
     <script>
@@ -52,16 +52,17 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/smacare_web.loader.js";
+      var loaderUrl = buildUrl + "/HearRO_Web.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/smacare_web.data.unityweb",
-        frameworkUrl: buildUrl + "/smacare_web.framework.js.unityweb",
-        codeUrl: buildUrl + "/smacare_web.wasm.unityweb",
+        dataUrl: buildUrl + "/HearRO_Web.data.unityweb",
+        frameworkUrl: buildUrl + "/HearRO_Web.framework.js.unityweb",
+        workerUrl: buildUrl + "/HearRO_Web.worker.js.unityweb",
+        codeUrl: buildUrl + "/HearRO_Web.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DigitalPharm",
-        productName: "스마케어",
-        productVersion: "4.2.24",
+        productName: "히어로",
+        productVersion: "1.1",
         showBanner: unityShowBanner,
       };
 
@@ -89,8 +90,8 @@
 
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
-        canvas.style.width = "750px";
-        canvas.style.height = "1334px";
+        canvas.style.width = "360px";
+        canvas.style.height = "700px";
       }
 
       document.querySelector("#unity-loading-bar").style.display = "block";
