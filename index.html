@@ -83,10 +83,9 @@
               element.webkitRequestFullscreen();
             } else if (element.msRequestFullscreen) {
               element.msRequestFullscreen();
-            } else if (element.mozRequestFlScreen) {
-              element.mozRequestFlScreen();
-            }
-            else {
+            } else if (element.mozRequestFullScreen) {
+              element.mozRequestFullScreen();
+            } else {
               alert("Full screen is not supported by this browser.");
             }
          }
