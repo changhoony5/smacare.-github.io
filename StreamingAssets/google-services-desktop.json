@@ -1,45 +1,36 @@
 {
   "project_info": {
-    "project_number": "846686011010",
-    "project_id": "dp-dtx-002",
-    "storage_bucket": "dp-dtx-002.appspot.com"
+    "project_number": "923658113474",
+    "project_id": "dp-dtx-003",
+    "storage_bucket": "dp-dtx-003.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:846686011010:android:823d7274d361b1f671be9b",
+        "mobilesdk_app_id": "1:923658113474:android:de7843f348ae436c29865b",
         "android_client_info": {
-          "package_name": "com.DigitalPharm.HearRO"
+          "package_name": "kr.co.ariacare.smacare"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "923658113474-mlv72f2vmt9pe5j8gk4oehbh242k0lh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyCA4OgNb5y34DnmyjtBW_v6W8ucOlX19Zk"
+          "current_key": "AIzaSyB6ayv-5HJJ_BsejY2RV0U9VR2VvUpqy7A"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:846686011010:android:3b7149d029020e3071be9b",
-        "android_client_info": {
-          "package_name": "com.digitalpharm.hearro"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCA4OgNb5y34DnmyjtBW_v6W8ucOlX19Zk"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923658113474-mlv72f2vmt9pe5j8gk4oehbh242k0lh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
