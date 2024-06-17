@@ -69,8 +69,6 @@
               document.webkitExitFullscreen();
             } else if (document.msExitFullscreen) {
               document.msExitFullscreen();
-            } else if (document.mozCancelFullScreen) {
-              document.mozCancelFullScreen();
             } else {
               alert("Full screen is not supported by this browser.");
             }
@@ -83,8 +81,6 @@
               element.webkitRequestFullscreen();
             } else if (element.msRequestFullscreen) {
               element.msRequestFullscreen();
-            } else if (element.mozRequestFullScreen) {
-              element.mozRequestFullScreen();
             } else {
               alert("Full screen is not supported by this browser.");
             }
