@@ -101,7 +101,7 @@
         companyName: "DigitalPharm",
         productName: "스마케어",
         productVersion: "4.2.24",
-        showBanner: unityShowBanner,
+        // showBanner: unityShowBanner,
       };
       
       // By default Unity keeps WebGL canvas render target size matched with
@@ -124,6 +124,10 @@
         //config.devicePixelRatio = 1;
       
         // unityShowBanner('WebGL builds are not supported on mobile devices.');
+      } else{
+        // desktop
+        canvas.style.width = "1080px";
+        canvas.style.height = "1920px";
       }
       
       loadingBar.style.display = "block";
