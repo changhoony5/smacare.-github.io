@@ -19,12 +19,12 @@
       <div id="unity-warning"> </div>
     </div>
     <script>
-      var container = document.querySelector("#unity-container");
-      var canvas = document.querySelector("#unity-canvas");
-      var loadingBar = document.querySelector("#unity-loading-bar");
-      var progressBarFull = document.querySelector("#unity-progress-bar-full");
-      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
-      var warningBanner = document.querySelector("#unity-warning");
+      const container = document.querySelector("#unity-container");
+      const canvas = document.querySelector("#unity-canvas");
+      const loadingBar = document.querySelector("#unity-loading-bar");
+      const progressBarFull = document.querySelector("#unity-progress-bar-full");
+      const fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      const warningBanner = document.querySelector("#unity-warning");
       
       function isFullscreen()
       {
@@ -50,9 +50,9 @@
         var div = document.createElement('div');
         div.innerHTML = msg;
         warningBanner.appendChild(div);
-        if (type == 'error') div.style = 'background: red; padding: 10px;';
+        if (type === 'error') div.style = 'background: red; padding: 10px;';
         else {
-          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+          if (type === 'warning') div.style = 'background: yellow; padding: 10px;';
           setTimeout(function() {
             warningBanner.removeChild(div);
             updateBannerVisibility();
@@ -92,15 +92,15 @@
       }
       
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/smacare.github.io.loader.js";
+      var loaderUrl = buildUrl + "/Web.loader.js";
       var config = {
-        dataUrl: buildUrl + "/smacare.github.io.data",
-        frameworkUrl: buildUrl + "/smacare.github.io.framework.js",
-        codeUrl: buildUrl + "/smacare.github.io.wasm",
+        dataUrl: buildUrl + "/Web.data.unityweb",
+        frameworkUrl: buildUrl + "/Web.framework.js.unityweb",
+        codeUrl: buildUrl + "/Web.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DigitalPharm",
         productName: "스마케어",
-        productVersion: "4.2.24",
+        productVersion: "4.2.25",
         // showBanner: unityShowBanner,
       };
       
@@ -129,7 +129,7 @@
         canvas.style.width = "100%";
         canvas.style.height = "100%";
       }
-      
+      x x
       loadingBar.style.display = "block";
       
       var script = document.createElement("script");
@@ -137,7 +137,7 @@
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           progressBarFull.style.width = 100 * progress + "%";
-        }).then((unityInstance) => {
+        }).then((unityInstance) => {                              // UnityInstance is the object that contains the Unity application for you to interact with it.
           loadingBar.style.display = "none";
 
           // If you want to warn the player before they close the tab,

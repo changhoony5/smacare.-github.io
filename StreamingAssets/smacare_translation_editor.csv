@@ -1,0 +1,753 @@
+﻿Key,Id,Shared Comments,English (United States)(en-US),English (United States)(en-US) Comments,Korean (South Korea)(ko-KR),Korean (South Korea)(ko-KR) Comments
+ui_loading,,,"Loading...
+Please wait a moment.",,"로딩 중 입니다. 
+잠시만 기다려주세요.",
+ui_alarm_not_ready,,,Getting ready. ,,준비 중 입니다,
+ui_modal_confirm,,,Confirm,,확 인,
+ui_modal_cancel,,,Cancel,,취 소,
+ui_modal_yes,,,Yes,,예,
+ui_modal_no,,,No,,아니오,
+ui_modal_next,,,Next,,다 음,
+ui_modal_previous,,,Previous,,이 전,
+ui_modal_review_head,,,Thank you for using Smarcare.,,스마케어를 이용해주셔서 감사합니다.,
+ui_modal_review_content,,,"Those who leave a review will receive
+all paid games for 30 days
+30 days.
+Leave a review now?",,평가를 남겨주신 분들은 모든 유료게임을 30일동안 이용하실수있어요. 지금 남기시겠습니까?,
+ui_splash_introduction_0,,,You'll find a wealth of content to help prevent dementia.,,치매 예방을 위한 다양한 콘텐츠를 만나 볼 수 있습니다.,
+ui_splash_introudction_1,,,The programme was developed in collaboration with researchers from the Big Data Centre at Catholic University Hospital and a team of cognitive psychology researchers.,,가톨릭 대학병원 빅데이터 센터 연구진과 인지심리 연구팀이 협력하여 개발한 프로그램입니다. ,
+ui_intro_button,,,Getting started with Sma-Care,,스마케어 시작하기,
+ui_toast_exit,,,Tap once more to exit.,,한 번 더 누르시면 종료합니다.,
+ui_main_menu_0,,,Assessment & Training,,검사·훈련,
+ui_main_training_menu_1,,,Self-Assessment,,치매 자가 진단,
+ui_main_training_menu_2,,,Dementia Prevention,,치매 예방 훈련 ,
+ui_main_training_menu_3,,,My Report,,결과 보기,
+ui_main_menu_1,,,Understanding Dementia,,치매 알기,
+ui_main_know_dementia_menu_1,,,OX Quiz,,치매 OX퀴즈,
+ui_main_know_dementia_menu_2,,,Know the types,,치매 종류 알기,
+ui_main_know_dementia_menu_3,,,Know the criteria,,치매 기준 알기,
+ui_main_mypage_name,,,Dear {textLabel.userName},,{textLabel.userName} 님,
+ui_main_mypage_point_receive,,,Go to earn points.,,포인트 받으러 가기,
+ui_main_mypage_point,,,Point,,포인트,
+ui_main_mypage_notice,,,Notice,,공지사항,
+ui_main_mypage_free_tier_comment,,,Play all games without limits.,,모든 게임을 제한 없이 즐기세요,
+ui_main_mypage_free_tier_view,,,View pass,,이용권 보러가기.,
+ui_main_mypage_vip_tier_comment,,,You are a premium member.,,회원님은 유료회원 입니다.,
+ui_main_mypage_vip_tier_view,,,Check remaining period.,,남은 기간 확인하기.,
+ui_main_mypage_settings,,,Settings,,설정,
+ui_main_mypage_myInfo,,,My Information,,내 정보,
+ui_main_mypage_edit,,,Edit,,수정,
+ui_main_mypage_media,,,Sounds/Vibrations,,소리/진동,
+ui_main_mypage_turnOff,,,Off,,끄기,
+ui_main_mypage_turnOn,,,On,,켜기,
+ui_main_mypage_delete_account_0,,,Delete account,,탈퇴하기,
+ui_main_mypage_delete_account_1,,,Delete,,탈퇴,
+ui_main_mypage_logout,,,Sign out,,로그아웃,
+ui_main_mypage_exit,,,Exit,,종료하기,
+ui_main_mypage_homepage,,,HomePage,,홈페이지,
+ui_main_mypage_term,,,Terms of Use,,이용약관,
+ui_main_mypage_policy,,,Privacy Policy,,개인정보취급방침,
+ui_main_change_myInfo_type_0,,,Edit information,,내 정보 변경하기,
+ui_main_change_password,,,Change your password,,비밀번호 변경하기,
+ui_main_change_term,,,Change your consent of the terms,,정보제공동의 변경하기,
+ui_main_change_title,,,<b><size=52>{textLabel.userName}</size></b>'s \n Information,,<b><size=80>{textLabel.userName}</size></b>님 기본정보,
+ui_main_email_empty,,,No registered information,,등록된 정보 없음,
+ui_main_change_myInfo_type_1,,,Edit information,,내 정보 수정,
+ui_main_change_myinfo_save,,,Save,,저장하기,
+ui_main_change_myinfo_id,,,ID,,아이디,
+ui_main_change_myinfo_name,,,Name,,이름,
+ui_main_change_myinfo_nickname,,,NickName,,닉네임,
+ui_main_change_myinfo_birth,,,Year of Birth,,출생년도,
+ui_main_change_myinfo_gender,,,Gender,,성별,
+ui_main_change_myinfo_education,,,Education,,최종학력,
+ui_main_change_myinfo_mobile,,,Mobile,,휴대폰 번호,
+ui_main_change_myinfo_email,,,E-mail,,이메일 주소,
+ui_main_change_myinfo_help,,,* You will receive a report by email.,,* 종합인지보고서를 메일로받으실 수있습니다  ,
+ui_main_change_myinfo_current_password,,,Current password,,현재 비밀번호,
+ui_main_change_myinfo_new_password,,,New password,,새 비밀번호,
+ui_main_change_myinfo_password_placehold,,,Confirm password,,비밀번호 확인,
+ui_main_change_myinfo_password_confirm_placehold,,,Password,,비밀번호,
+ui_main_change_myinfo_term_consent_provide_information,,,Consent of the terms,,정보제공동의,
+ui_main_change_myinfo_term_agree_all,,,Agree to All,,전체동의,
+ui_main_change_myinfo_term_agree_sms,,,Providing benefits and information via SMS,,SMS를 통한 혜택 및 정보 제공,
+ui_main_change_myinfo_term_agree_notifications,,,Providing benefits and information via push notifications,,푸시 알림을 통한 혜택 및 정보 제공,
+ui_main_change_myinfo_term_agree_email,,,Providing benefits and information via email,,이메일을 통한 혜택 및 정보 제공,
+ui_main_change_myinfo_term_agree_help,,,"* If you have not registered your email, please update your email information in the account settings.",,* 이메일을 등록하지 않으셨다면 정보변경에서 이메일 정보를 갱신해주십시오.,
+ui_main_point_title,,,My SmaCare Points,,나의 스마케어 포인트,
+ui_main_point_help,,,Collect SmaCare Points to participate in various events.,,스마케어 포인트를 모아서 다양한 이벤트에 참여 하실 수 있습니다.,
+ui_main_point_not_yet,,,Coming Soon :),,준비중 입니다 :),
+ui_main_point_use,,,Use Points,,포인트 사용하기,
+ui_main_digital_brain_screening,,,Digital Brain Screening,,디지털 브레인 스크리닝,
+ui_main_digital_brain_screening_intro_title,,,What is Digital Brain Screening?,,디지털 브레인 스크리닝은?,
+ui_main_digital_brain_screening_intro_description,,,DBS is a self-diagnosis test for dementia that allows you to easily measure the level of cognitive decline. Shall we get started?,,"DBS는 치매 자가진단 검사로써
+인지 저하의 수준을 간단하게
+측정할 수 있는 검사입니다.
+그럼 한번 시작해볼까요?",
+ui_main_imi_intro_title,,,What is the Motor Imagery Test?,,운동 심상 검사란?,
+ui_main_imi_intro_description,,,"Motor imagery refers to the brain activity of mentally imagining moving images. Through this test, you can predict the degree of cognitive decline.",,"운동심상(Motor imagery)이란,
+움직이는 이미지를 마음속으로
+상상하는 두뇌활동 입니다.
+본 검사를 통해 인지 저하 정도를
+예측할 수 있습니다.",
+ui_main_ori_intro,,,What is the Orientation Test?,,지남력 검사란?,
+ui_main_ori_intro_description,,,"Orientation is the ability to correctly recognize time, place, situations, or environments, and it is the ability that most noticeably declines with cognitive impairment. This test assesses the impairment of orientation.",,"지남력은 시간과 장소, 상황이나
+환경을 올바르게 인식하는 능력으로
+인지기능 저하시 가장 두드러지게
+감소하는 능력입니다.
+지남력의 저하여부를 판단합니다.",
+ui_main_digital_brain_screening_description,,,Dementia Screening Test Using MMSE-K,,MMSE-K를 활용한 치매 선별 검사입니다,
+ui_main_motor_test,,,Motor Imagery Test,,운동 심상 검사,
+ui_main_motor_test_description,,,Motor Imagery Test,,운동심상 검사입니다.,
+ui_main_orientation_test,,,Orientation Test,,지남력 검사,
+ui_main_orientation_test_description,,,Date Orientation Test,,날짜 인지능력 검사입니다.,
+ui_main_goto_result,,,View Past Test Results,,지난검사 결과보기,
+ui_main_result_self_assessment,,,Dementia Self-Assessment Report,,치매 자가 진단 결과,
+ui_main_result_training,,,Dementia Prevention Training Report,,치매 예방 훈련 결과,
+ui_main_result_report,,,Brain and Cognition Reports,,두뇌인지종합보고서,
+ui_main_result_modal_title,,,My Training Results,,나의 훈련 결과,
+ui_main_result_modal_comment,,,"Shall we review your training results?
+We analyze them from multiple perspectives.",,여러분이 하신 훈련 결과를 한번 살펴볼까요? 다방면으로 결과를 분석해드립니다.,
+ui_main_result_modal_button_label,,,View Training Results,,훈련 결과보기,
+ui_main_onboarding_beginning_introduction,,,Various training sessions are prepared for you.,,"다양한 훈련이
+준비되어 있습니다.",
+ui_main_onboarding_beginning_encourage,,,Let's work hard on your brain exercises today.,,"오늘도 두뇌운동을 열심히
+해볼까요?",
+ui_start_button_label,,,Start,,시작하기,
+ui_today_training_banner_0,,,Start Today's Training,,오늘의 훈련 하기,
+ui_today_training_banner_1,,,Engage in various trainings every day,,"매일매일 다양한
+훈련을 진행하세요",
+ui_main_game_category_memory,,,Memory,,기억력,
+ui_main_game_category_language,,,Language Skills,,언어력,
+ui_main_game_category_calculation,,,Calculation Skills,,계산력,
+ui_main_game_category_attention,,,Attention,,주의집중력,
+ui_main_game_category_spartial_perception,,,Spartial Perception,,공간지각력,
+ui_main_result_past_test,,,Past scan results,,지난 검사 결과보기,
+ui_main_history_point_0_legend,,,0,,0점,
+ui_main_history_point_1_legend,,,12.5,,12.5점,
+ui_main_history_point_2_legend,,,25,,25점,
+ui_main_history_month_divider,,,/,,월,
+ui_main_history_day,,, ,,일,
+ui_main_result_month,,,Month,,월,
+ui_main_result_week,,,Week,,주,
+ui_main_result_year,,,Year,,년,
+ui_main_result_view_by_result,,,View by Unit,,단위로 보기,
+ui_main_result_digital_brain_screening_result,,,Digital Brain Screening Results,,디지털 브레인 스크리닝 성적,
+ui_main_result_modal_warning_title,,,DBS screening test is still incomplete!,,"DBS 선별검사를
+완료하지 않으셨네요!",
+ui_main_result_modal_warning_comment,,,Accurate analysis requires the completion of the screening test.,,"선별검사를 완료해야
+정확한 분석이 가능합니다.",
+ui_main_result_modal_warning_button_label,,,Start the Test,,검사 시작하기,
+ui_main_game_cover_label,,,Free Training Game,,무료 연습 게임,
+ui_main_game_memory_title,,,Memory Training,,기억력 훈련,
+ui_main_game_memory_black_stone,,,Find the Black Stone!,,검은돌을 찾아라!,
+ui_main_game_memory_memory_pangpang,,,Memory PangPang,,메모리 팡팡,
+ui_main_game_memory_pick_card,,,Which Card Should I Get?,,무슨 패를 먹을까?,
+ui_main_game_memory_dig_jewel,,,Let's Dig for Gems,,보석을 캐자,
+ui_main_game_memory_matching_pair,,,Matching,,짝 맞추기,
+ui_main_game_memory_where_is_it,,,Where Is It?,,어디에 있을까,
+ui_main_game_language_title,,,Language Skills Training,,언어력 훈련,
+ui_main_game_language_proverb,,,Complete the Proverb,,속담 완성하기,
+ui_main_game_languiage_guess_name,,,Guess the Name,,이름 알아 맞추기,
+ui_main_game_languiage_catch_word,,,Word Catching,,단어 잡기,
+ui_main_game_calculation_title,,,Calculation Skills Training,,계산력 훈련,
+ui_main_game_how_much_is_it,,,How Much Is It?,,얼마일까요?,
+ui_main_game_addition_subtraction,,,Addition/Subtraction,,더하기 빼기,
+ui_main_game_attention_title,,,Attention Training,,주의집중력 훈련,
+ui_main_game_attention_push,,,Press the Button,,버튼을 눌러라,
+ui_main_game_attention_who,,,Who is it?,,누구일까요,
+ui_main_game_attention_color,,,Colorful OX,,알록달록 OX,
+ui_main_game_attention_shape,,,Find the Different Shape,,다른 모양 찾기,
+ui_main_game_attention_bigger,,,Who is bigger? ,,누가 더 클까?,
+ui_main_game_spartial_perception_title,,,Spatial Perception Training,,공간지각력 훈련,
+ui_main_game_spartial_perception_hand,,,Which Hand is it?,,어느 쪽 손일까?,
+ui_main_game_spartial_perception_direction,,,Find Different Direction,,다른 방향을 찾아라!,
+ui_main_game_spartial_perception_stroll,,,Doctor's Stroll,,닥터의 산책,
+ui_main_delete_user_info_warning,,,"You still have an active subscription period.
+If you unsubscribe, even if you rejoin,
+your payment history cannot be restored.
+Do you want to unsubscribe?",,"결제기간이 남아있습니다
+탈퇴 후에는 재가입해도
+결제내역이 복구되지 않습니다
+탈퇴하시겠습니까?",
+ui_main_delete_user_info,,,Are you sure you want to unsubscribe?,,탈퇴하시겠습니까?,
+ui_main_delete_button_label,,,Cancel Membership,,탈 퇴,
+ui_main_exit_button_label_type_0,,,Exit,,종료,
+ui_main_exit_warning,,,"If you exit now, your progress will not be saved.",,지금 종료하면 진행사항이 저장되지 않습니다.,
+ui_main_exit_continue,,,Continue,,계속 진행 하기,
+ui_main_exit_button_label_type_1,,,Exit,,종료하기,
+ui_main_modal_recommend_membership_title,,,Become a Premium Member,,유료 회원이 되세요!,
+ui_main_modal_recommend_membership_comment,,,"Enjoy new training modules and five areas of dementia prevention training anytime, anywhere.",,"새로운 훈련들과 5가지 영역의
+치매 예방 훈련을 언제 어디서나
+즐기실 수 있습니다.",
+ui_main_modal_recommend_membership_try,,,Try a Training Session,,훈련 체험하기,
+ui_main_modal_recommend_membership_pass,,,SmaCare Pass,,스마케어 이용권,
+ui_report_loading_comment,,,"Loading…
+Please wait a moment",,"로딩 중 입니다
+잠시만 기다려주세요",
+ui_report_title,,,My Report,,훈련 결과,
+ui_report_tap_summary,,,Summary,,요약,
+ui_report_tap_compare,,,Compare,,비교,
+ui_report_tap_bygame,,,By Game,,게임별,
+ui_report_training_progress_title,,,Progress,,나의 훈련 현황,
+ui_report_training_progress_memory,,,Memory,,기억력,
+ui_report_training_progress_language,,,Language Skills,,언어력,
+ui_report_training_progress_calculation,,,Calculation Skills,,계산력,
+ui_report_training_progress_concentration,,,Attention,,주의집중력,
+ui_report_training_progress_spartial_perception,,,Spatial Perception,,공간지각력,
+ui_report_training_cognitive_title,,,Cognitive Abilities,,나의 인지 능력,
+ui_report_training_journal_title,,,Training Record,,나의 훈련 도감,
+ui_report_training_journal_total_time,,,Today's Total Training Time,,금일 훈련 누적시간,
+ui_report_training_journal_cumulative_time,,,Total Cumulative Training Time,,전체 훈련 누적시간,
+ui_report_training_journal_completed_training,,,Number of Completed Trainings,,완료 훈련 횟수,
+ui_report_select_age_title,,,Select Age Group,,나이대 선택,
+ui_report_select_age_comment,,,Please select the age group you want to compare.,,비교하고 싶은 연령대를 선택하세요,
+ui_report_select_age_default,,,All Users,,전체 이용자,
+ui_report_select_age_item,,,{0} Age Group,,{0} 대,
+ui_report_progress_help,,,"When your total training score reaches 1,000 points, you will level up by one tier.",,"훈련 점수 합계가 1,000점
+이 되면 1단계씩 올라갑니다",
+ui_report_progress_encourage,,,Achieve Higher Levels!,,더 높은 단계에 도달해보세요!,
+ui_report_rank_label,,,What's My Rank Among 100 Users?,,나는 100명 중 몇 등 일까?,
+ui_report_me,,,Me,,나,
+ui_report_friends,,,Friends,,친구들,
+ui_report_my_point,,,My Score,,나의 점수,
+ui_report_user_average_point,,,Average User Score,,이용자 평균 점수,
+ui_report_correction_ratio_with_name,,,{textLabel.userName}'s Correct Answer Rate,,{textLabel.userName}님의 정답률,
+ui_report_correction_ratio,,,Correct Answer Rate,,정답률,
+ui_report_compare_comment,,,Your brain is functioning healthily! Let's put in a little more effort to reach the top.,,"두뇌가 건강하게
+황동하고 있네요! 조금만 더
+노력해서 정상으로 가볼까요?",
+ui_report_brain_age_title,,,My Smacare Brain Age.,,나의 스마케어 두뇌나이,
+ui_report_brain_age_assessment,,,What is My Sma-Care Brain Age?,,나의 스마케어 두뇌나이는?,
+ui_report_vip_only_comment,,,This feature is available to premium members only.,,본 항목은 유료회원에게 제공되는 서비스입니다,
+ui_report_purchase_button_label,,,Purchase a Subscription.,,이용권 구매하기,
+ui_report_recommendation,,,"Our Sma-Care service is provided for simple self-assessment/screening of cognitive functions and their status (please note that it is not intended for health examinations, verification, or treatment related to this). It utilizes a cognitive program developed through cooperative research with Seoul St. Mary's Hospital of Catholic University and its faculty (a program based on the MMSE-K dementia screening tool, adapted for online/mobile services). Please note that even if there are positive or negative analyses or related information about your health status through this service, we recommend that you consult a specialist or medical institution for advice on your health condition and hygiene safety.",,"당사의 스마케어 서비스는 인지 기능과 그 상태에 대한 간이한 자가 점검/스크리닝 목적으로 제공되고 있고(이와 관련 건강검진, 그 확인 또는 그 치료를 위한 것이 아님을 유의하시기 바랍니다), 가톨릭대학교 서울성모병원 및 그 교수진의  협력 연구를 통하여 개발된 인지프로그램(치매선별검사 도구인 MMSE-K를 기반으로 이를 온라인/모 바일 서비스에 적합하게 개발된 프로그램)이 사용되고 있습니다. 본 서비스를 통하여 이용자의 건강상태에 대한 긍정적 또는 부정적 분석이나 관련 정보가 있는 경우에도 이용자 자신의 건강상태 및 보건 위생상의 위해 여부 또 는 그 우려에 대하여는 전문의, 의료기관의 진료 및/또는 상담을 받아보시기를 권장합니다.",
+ui_report_bygame_title,,,Training Results by Game.,,게임별 훈련 결과,
+ui_report_bygame_othergame,,,Previous Menu,,다른 훈련 결과 보기,
+ui_report_highpoint,,,Highest Score.,,최고점수,
+ui_report_reaction_average_time,,,Average Reaction Time,,평균 반응 시간,
+ui_login_account_label,,,Account,,ID/PW,
+ui_login_mobile_label,,,Mobile,,휴대폰 로그인,
+ui_login_id_label,,,ID,,아이디,
+ui_password_button_label,,,Password,,비밀번호,
+ui_login_id_placehold,,,Please enter your ID.,,아이디를 입력해 주세요.,
+ui_login_password_placehold,,,Please enter your password.,,비밀번호를 입력해 주세요.,
+ui_login_button_label,,,Login,,로그인,
+ui_login_find_id,,,Find ID,,아이디 찾기,
+ui_login_find_password,,,Find PW,,비밀번호 찾기,
+ui_login_verfication_number,,,Verification Code,,인증 번호,
+ui_login_mobile_login_button_label,,,Sign Up or Log In,,가입 또는 로그인,
+ui_login_verification,,,Verify,,인증,
+ui_confirm_no_space,,,Confirm,,확인,
+ui_cancel,,,Cancel,,취소,
+ui_reset_password,,,Reset Password,,비밀번호 재설정,
+ui_new_password,,,New Password,,신규 비밀번호,
+ui_confirm_password,,,Confirm Password,,비밀번호 확인,
+ui_new_password_placehold,,,Please enter your password.,,비밀번호를 입력해주세요.,
+ui_new_password_placehold_again,,,Please re-enter your password.,,재 입력 해주세요.,
+ui_login_name_field_placehold,,,Your name,,홍길동,
+ui_signup_title_label,,,Terms of Service,,스마케어 이용약관,
+ui_signup_all_agree_label,,,Agree to All Terms,,이용약관 전체동의,
+ui_signup_use_app_consent_label,,,"I agree and accept Terms of Service.
+(Required)",,스마케어 이용약관에 동의(필수),
+ui_signup_information_consent_label,,,"I agree and accept Privacy Policy.
+(Required)",,개인정보 수집·이용 동의(필수),
+ui_signup_marketing_consent_label,,,"I agree and accept Marketing Term.
+(Optional)",,마케팅 정보 활용 동의(선택),
+ui_signup_view_view_label,,,Details,,자세히보기,
+ui_signup_benefit_agree_label,,,Agree to All Benefit Notifications,,혜택 알림에 전체 동의,
+ui_signup_email_label,,,Email,,이메일,
+ui_signup_notifications_app_label,,,App Push,,앱 알람(PUSH),
+ui_signup_via_you_label,,,You can receive comprehensive brain and cognitive reports via email.,,두뇌 인지 종합검사를 받아보실 수 있습니다.,
+ui_next,,,Next,,다음,
+ui_signup_nickname_label,,,Nickname,,· 닉네임 ,
+ui_signup_nickname_placehold,,,Enter if applicable,,선택시 입력,
+ui_signup_nickname_check,,,Verify,,중복 확인,
+ui_signup_gender,,,Gender,,· 성별,
+ui_signup_birth_placehold,,,8-digit Date of Birth,,생년월일 8자리,
+ui_signup_birth_label,,,Date of Birth,,· 생년월일,
+ui_signup_verification_label,,,Verify,,실명 인증,
+ui_signup_education_level_label,,,Education,,· 최종학력,
+ui_signup_education_selection_default,,,Please select your education level,,교육 받은 정도를 알려주세요  ,
+ui_signup_education_selection_help,,,Please select,,선택하세요,
+ui_signup_button_label,,,Sign Up,,회원가입,
+ui_signup_welcome,,,Congratulations on signing up!,,회원가입을 축하합니다!,
+ui_signup_welcome_intro,,,Now you can use Sma-Care! Shall we get started?,,"이제 스마케어를
+이용하실 수 있습니다!
+시작해 볼까요?",
+ui_signup_welcome_greeting,,,"I am your personal doctor, Doo Doctor. Nice to meet you.",,"저는 여러분의 주치의
+두닥터 입니다
+만나서 반갑습니다",
+ui_signup_welcome_greeting_response_0,,,"Yes, nice to meet you too!",,"네, 저도 반가워요!",
+ui_signup_welcome_greeting_response_1,,,Diagnose Dementia,,치매 진단하기,
+ui_purchase_coupon_button_label,,,Enter Coupon,,쿠폰 입력하기,
+ui_purchase_pass_description,,,The pass is,,이용권 사용은,
+ui_purchase_progress_check,,,Would you like to proceed with the purchase?,,구매를 진행하시겠습니까?,
+ui_purchase_warning,,,"※ After purchasing and using the pass, it cannot be refunded.",,※ 이용권을 구매하신 다음 사용하신 후에는 환불되지않습니다.,
+ui_purchase_button_label,,,Purchase Selected Pass,,선택한 이용권 구매,
+ui_purchase_coupon_modal_title,,,Register Coupon,,쿠폰 등록하기,
+ui_purchase_coupon_digit,,,4 Digits,,4자리,
+ui_purchase_a_month_pass,,,1-Month Pass,,1개월 이용권,
+ui_purchase_three_month_pass,,,3-Month Pass,,3개월 이용권,
+ui_purchase_a_year_pass,,,1-Year Pass,,12개월 이용권,
+ui_purchase_unlimit_pass,,,Unlimited Pass,,무제한 이용권,
+ui_register,,,Register,,등록,
+ui_today_training_title,,,Today's Training,,오늘의 훈련,
+ui_today_training_subtitle,,,Today's training is ready.,,오늘의 훈련이 준비되었습니다.,
+ui_today_training_button,,,Next Training,,다음 훈련,
+ui_today_training_modal_title,,,We prepare 5 new trainings every day.,,매일 새로운 5개의 훈련을 준비합니다.,
+ui_today_training_modal_comment_0,,,Stimulate your brain for free every day for 365 days,,365일 매일 무료로 두뇌를 자극해보세요,
+ui_today_training_modal_comment_1,,,You have completed all of today's training. Well done!,,오늘의 훈련을 모두 완료했습니다. 수고하셨습니다!,
+ui_today_training_modal_comment_2,,,Shall we start training freely now?,,이제 자유롭게 훈련해 볼까요?,
+ui_back,,,Go Back,,돌아가기,
+ui_today_training_modal_comment_3,,,Well done! Shall we start training freely now?,,수고하셨습니다! 이제 자유롭게 훈련해볼까요?,
+ui_brain_report_title,,,Brain and Cognition Reports,,두뇌인지종합보고서,
+ui_brain_report_free_information,,,This content is provided to <b>premium members.</b>,,<b>유료회원</b>에게 제공되는 내용입니다.,
+ui_brain_report_vip_mean,,,What is a Premium Member?,,유료 회원이란?,
+ui_brain_report_vip_benefit_0,,,What is a Sma-Care Premium Member?,,스마케어 유료 회원 이란?,
+ui_brain_report_vip_benefit_1,,,You can enjoy <b>all of Sma-Care's cognitive training games</b> designed by the country's top researchers.,,국내 최고의 연구진들이 설계한 스마케어의 <b>모든 인지 훈련 게임을</b> 즐길 수 있습니다.,
+ui_brain_report_vip_benefit_2,,,<b>We provide systematic training that analyzes your cognitive status in detail</b> and helps improve areas where you are lacking.,,<b>회원님의 인지 상태를 상세 분석하여</b> 부족한 영역을 보완할 수 있는 체계적인 훈련을 제공합니다.,
+ui_brain_report_vip_benefit_3,,,<b>What is my Brain Age?</b> We provide various statistical data through detailed analysis of each game.,,<b>나의 두뇌 나이는 어느 수준인가?</b> 각 게임별 상세분석을 통해 다양한 통계 자료를 제공합니다.,
+ui_brain_report_purchase,,,Go to Pass Purchase,,이용권 보러 가기,
+ui_brain_report_address,,,Registered Email Address,,등록된 이메일 주소,
+ui_brain_report_change_email,,,Change Email,,이메일 변경하기,
+ui_brain_report_send_report,,,Send Report,,보고서 전송하기,
+ui_brain_report_sent_information,,,<b> {textLabel.userName} member's </b> \n This month's comprehensive report \n will be sent to \n your email,,<b> {textLabel.userName} 회원님의</b> \n 이번 달 종합보고서를 \n 이메일로 \n 발송해드립니다,
+ui_brain_report_sent_result,,,<b> {textLabel.userName} member's email </b> \n \n<b> has been sent.</b>,,<b> {textLabel.userName} 회원님의 이메일</b> \n \n<b>으로 발송되었습니다.</b>,
+ui_brain_report_return_main,,,Return to Main,,메인으로 돌아가기,
+ui_brain_report_warning,,,You must perform digital brain screening and at least one cognitive training in each of the five areas to complete the Brain Cognitive Analysis Report,,디지털 브레인 스크리닝과 5가지 영역의 인지 훈련을 최소 한번씩은 수행하셔야 두뇌인지 분석 보고서가 완성됩니다,
+ui_brain_report_preview_report,,,Preview Brain and Cognition Reports,,두뇌인지종합보고서 미리보기,
+ui_brain_report_receive_report,,,Receive,,받아보기,
+ui_know_dementia_start,,,Shall we learn about it?,,"치매 종류에 대해
+알아볼까요?",
+ui_know_dementia_description_step_0,,,Dementia can be broadly classified into five types!,,"치매는 크게
+다섯 가지 종류로
+구분할 수 있어요!",
+ui_know_dementia_description_step_1,,,Shall we explore together?,,같이 알아볼까요?,
+ui_suggest_learn,,,Learn More,,알아보기,
+ui_know_dementia_description_step_2,,,① Alzheimer's Dementia,,① 알츠하이머 치매,
+ui_know_dementia_description_step_3,,,"It accounts for 55-70% of all dementia cases, with the primary characteristic being memory decline due to the degeneration of brain cells.
+It develops very slowly and progressively worsens.",,"전체 치매의 55~70%를
+차지하며, 뇌세포의 퇴화로
+인한 기억력 저하가
+가장 큰 특징입니다.
+
+매우 서서히 발병하며
+점차적으로 악화됩니다.",
+ui_know_dementia_description_step_4,,,② Vascular Dementia,,② 혈관성 치매,
+ui_know_dementia_description_step_5,,,"It accounts for 15-20% of all dementia cases, making it the second most common type of dementia.
+It primarily occurs in individuals with hypertension or diabetes and may present with stroke symptoms.",,"전체 치매의 15~20%를
+차지하며, 두 번째로
+많은 치매입니다.
+
+고혈압이나 당뇨가 있는
+경우에 주로 발병하며,
+뇌졸중 증상을 함께
+보이기도 합니다.",
+ui_know_dementia_description_step_6,,,③ Lewy Body Dementia,,③ 루이체 치매,
+ui_know_dementia_description_step_7,,,"It accounts for 10-25% of all dementia cases and is a type of dementia that presents with Parkinson's disease symptoms.
+Early detection is important as it responds well to medication treatment.",,"전체 치매의 10~25%를
+차지하며, 파킨슨병 증상을
+함께 보이는 치매입니다.
+
+약물 치료에 대한
+반응이 좋아 조기 발견이
+중요합니다.",
+ui_know_dementia_description_step_8,,,④ Alcoholic Dementia,,④ 알코올성 치매,
+ui_know_dementia_description_step_9,,,"Long-term excessive drinking can lead to dementia.
+Depending on the amount of alcohol consumed, it can develop as early as the 50s or after the 70s.",,"장기간 과음을
+지속할 경우 치매로
+이어질 수 있습니다.
+
+알코올 섭취량에 따라
+이르면 50대에서
+늦으면 70대 이후에
+발병하기도 합니다.",
+ui_know_dementia_description_step_10,,,⑤ Reversible Dementia,,⑤ 가역성 치매,
+ui_know_dementia_description_step_11,,,"It accounts for 5-10% of all dementia cases and refers to dementia caused by treatable causes.
+Common causes include depression, alcohol addiction, and brain tumors.",,"전체 치매의 5~10%를
+차지하며, 완치 가능한
+원인에 의해 발생한
+치매를 의미합니다.
+
+대표적인 원인은
+우울증, 알코올 중독,
+뇌종양 등이 있습니다.",
+ui_know_dementia_description_step_12,,,"Did you enjoy it!
+Now, shall we <color=#ff9602>train your brain</color>?",,"즐거우셨나요!
+그럼 이제 <color=#ff9602>두뇌를
+훈련하러</color> 가볼까요?",
+ui_know_dementia_suggest_tranining,,,Train your brain,,인지 훈련하기,
+ui_later,,,Do It Later,,다음에 하기,
+ui_stop,,,Stop,,멈 춤,
+ui_know_dementia_listen_to_voice,,,Listen to Voice,,음성듣기,
+ui_know_dementia_2_start,,,"Hello, this is Dr. Kim.
+What is dementia?
+How is dementia diagnosed?",,"안녕하세요 김박사입니다.
+
+치매란 무엇일까요?
+
+치매는 어떻게 진단될까요?",
+ui_know_dementia_title_0,,,1. Definition of Dementia,,1. 치매의 정의,
+ui_know_dementia_description_0,,,Shall we learn about the definition and diagnostic criteria of dementia?,,"치매의 정의와 진단 기준에
+
+대해서 알아볼까요?",
+ui_know_dementia_description_1,,,"Dementia refers to a state where a person who has been living normally develops significant impairments in daily life due to a decline in multiple cognitive functions such as <color=#ED7D31>memory, language, and judgment</color> caused by various acquired reasons.
+
+Dementia is not the name of a single disease but rather a <color=#ED7D31>collection of symptoms where multiple symptoms appear together under certain conditions</color>.",,"치매는 정상적으로 생활해오던 사람이 후천적으로 다양한 원인으로 인해 <color=#ED7D31>기억,언어, 판단력 등의 여러 영역의 인지기능이 떨어져서
+일상 생활에 상당한 지장이
+나타나는 상태</color>를 말합니다.
+
+치매는 어떤 하나의 질병 명이 아니라, <color=#ED7D31>특정한 조건에서 여러 증상들이 함께 나타나는 
+증상들의 묶음</color>입니다.",
+ui_know_dementia_description_2,,,<b>Representative Early Symptoms of Dementia</b>,,<b>치매의 대표적인 초기증상</b>,
+ui_know_dementia_description_3,,,Memory Loss,,기억력 감퇴,
+ui_know_dementia_description_4,,,"<color=#ED7D31>Memory decline due to aging is a normal change.</color>
+
+Dementia is different from such normal changes.
+
+<color=#ED7D31>Memory decline that occurs with aging is usually limited to trivial matters.</color>
+
+Let's simply compare the memory differences between normal elderly individuals and those with dementia.",,"<color=#ED7D31>나이가 듦에 따른 기억력의
+저하는 정상적인 변화입니다. 
+</color>
+
+치매는 이러한 정상적인
+변화와는 다릅니다. 
+
+<color=#ED7D31>나이가 들면서 생기는 기억력
+저하는 대개 사소한 일들에
+국한되어 있습니다.</color>
+
+간단하게 정상 노인과 치매 노인의
+기억력 차이를 비교해봅시다.",
+ui_know_dementia_description_normal_0,,,Memory Decline in Normal Elderly,,정상 노인의 기억력 저하,
+ui_know_dementia_description_normal_1,,,Caused by the natural aging of the brain,,뇌의 자연적인 노화현상이 원인,
+ui_know_dementia_description_normal_2,,,Forget parts of experiences,,경험한 것의 일부를 잊어버린다.,
+ui_know_dementia_description_normal_3,,,Does not progress even if forgetfulness increases,,잊어버리는 것이 많아져도 진행 되지 않는다.,
+ui_know_dementia_description_normal_4,,,Aware of the forgotten facts themselves,,잊어버린 사실을 스스로 안다.,
+ui_know_dementia_description_normal_5,,,No interference with daily life,,일상생활에 지장이 없다.,
+ui_know_dementia_description_dementia_0,,,Memory Decline in Elderly with Dementia,,치매 노인의 기억력 저하,
+ui_know_dementia_description_dementia_1,,,Caused by brain diseases or damage,,뇌의 질병이나 손상이 원인이다.,
+ui_know_dementia_description_dementia_2,,,Forget entire experiences,,경험한 것의 전체를 잊어버린다.,
+ui_know_dementia_description_dementia_3,,,"Memory impairment gradually worsens, and judgment declines",,기억장애가 점차 심해지며 판단력도 저하된다.,
+ui_know_dementia_description_dementia_4,,,Unaware of the forgotten facts themselves,,잊어버린 사실 자체를 모른다.,
+ui_know_dementia_description_dementia_5,,,Interferes with daily life,,일상생활에 지장을 받는다.,
+ui_know_dementia_sub_title_1,,,2. Diagnostic Criteria of Dementia,,2. 치매의 진단기준,
+ui_know_dementia_description_5,,,"Currently, the <color=#ED7D31>DSM-V</color> (Diagnostic and Statistical Manual of Mental Disorders, 5th edition) by the American Psychiatric Association is most widely used for diagnosing dementia.
+
+<color=#ED7D31>DSM-V is a manual of diagnostic criteria and statistics for mental disorders, created for professionals in the field of mental health.</color>",,"치매 진단에는 현재 <color=#ED7D31>미국 정신과 학회의 DSM-V</color>(diagnostic and statistical manual of mental disorder, 5th edition)진단기준이  가장 널리 사용되고 있습니다.
+
+<color=#ED7D31>DSM-V는 정신질환 진단 및 통계 편람으로써 정신건강 분야의 전문가들을 위해 만들어졌습니다.
+</color>
+",
+ui_know_dementia_description_6,,,"The diagnostic criteria are as follows:
+
+<color=#77BBF3>A.</color> The development of multiple cognitive deficits manifested by <color=#ED7D31><b>both memory impairment and one (or more) of the following cognitive disturbances:</b>
+
+1. Memory Impairment</color> (Impaired ability to learn new information or to recall previously learned information) <color=#ED7D31>
+
+2. One (or more) of the following cognitive disturbances:
+  a) Aphasia</color> (Language disturbance) 
+  <color=#ED7D31>b) Apraxia</color> (Impaired ability to carry out motor activities despite intact motor function) <color=#ED7D31>
+  c) Agnosia</color> (Failure to recognize or identify objects despite intact sensory function) Disturbance in executive functioning (e.g., planning, organizing, sequencing, summarizing)
+",,"진단 기준은 다음과 같습니다. 
+
+<color=#77BBF3>A.</color> 여러가지  인지 결핍이 발생하는데, <color=#ED7D31><b>다음 중 기억장애를 포함한 두 가지로 나타난다.</b>
+1. 기억장애</color>(새로운 정보를 학습할 능력 장애, 과거 학습한 정보를 회상하는 능력의 장애)
+<color=#ED7D31>2. 다음의 인지장애 중 하나 이상 존재
+a) 실어증</color>(언어장애)
+<color=#ED7D31>b) 실행증</color>(운동기능이 정상인데도 운동 활동 수행능력의 손상
+<color=#ED7D31>c)실인증</color>(감각기능이 정상인데도 대상을 인지하지 못함)
+실행기능(예: 기획, 구성, 배열, 요약)",
+ui_know_dementia_description_7,,,"<color=#B8EF88>B.</color> The deficits in Criteria A cause significant impairment in social or occupational functioning and represent a significant decline from a previous level of functioning.
+
+<color=#FBB57C>C.</color> The deficits do not occur exclusively during the course of delirium.
+
+Therefore, if memory impairment is present along with at least one of the cognitive disturbances mentioned above, and Criteria B and C are met, <color=#FF0000><b>it is recommended to seek consultation and diagnosis from a specialist or medical institution.</b></color>",,"<color=#B8EF88>B.</color> 위의 장애가 사회적 및 직업적 기능의 심각한 장해를 초래하고 <b>병전의 기능 수준보다 상당히 감퇴되어 있음
+</b>
+
+<color=#FBB57C>C.</color>  장애가 섬망의 경과 중에는 나타난 것이 아님
+
+즉, 기억장애를 포함하고 앞서 언급된 인지장애 중 하나이상이 존재하고 B와 C를 충족시킨다면 <color=#FF0000><b>전문의, 의료기관의 진료 및 상담을 받기를 권장합니다.</b>
+</color>",
+ui_ox_quiz_end_greeting,,,"Dementia Learning Time
+Did you enjoy it?
+Well done!",,"치매에 대해
+알아본 시간
+즐거우셨나요? 
+수고하셨습니다!",
+ui_ox_quiz_result_label,,,Quiz Results,,퀴즈 결과,
+ui_ox_quiz_explanation,,,Explanation of Incorrect Answers,,틀린 문제 해설,
+ui_ox_quiz_encourage_comment,,,Dementia can be prevented!,,"치매는 예방할 수
+있답니다!",
+ui_ox_quiz_help_information,,, ,,"<color=#3f3f3f><size=70>지원상담</size></color>
+<color=#e4007f><size=70>1670-9979</size></color>",
+ui_ox_quiz_next,,,Next Question,,다음 문제,
+ui_ox_quiz_how_to_play,,,How to Play O.X Quiz,,O.X 퀴즈 방법,
+ui_ox_quiz_tutorial,,,Read the question and press <color=#3b92ba>O if correct</color> <color=#c64236>X if incorrect</color>!,,"문제를 읽고, <color=#3b92ba>맞으면 O를
+</color>
+<color=#c64236>틀리면 X를</color> 눌러주세요!",
+ui_ox_quiz_start,,,Start Quiz!,,퀴즈 시작!,
+ui_skip,,,Skip,,넘어가기,
+ui_game_pause,,,Pause,,정지,
+ui_ox_quiz_continue,,,Continue,,계속 진행 하기,
+ui_ox_quiz_quit,,,Quit,,그만하기,
+ui_ox_quiz_description_0,,,<color=#ff0c00>Forgetfulness</color> does not lead to <color=#ff0c00>dementia</color>.,,"<color=#ff0c00>건망증</color>이 심해져서 <color=#ff0c00>치매</color>가
+되는 건 <color=#ff0c00>아닙니다.</color>",
+ui_ox_quiz_description_1,,,"If you can't remember what you ate for lunch,
+it's just forgetfulness,",,"점심에 무엇을 먹었는지
+기억이 안 나면 건망증,",
+ui_ox_quiz_description_2,,,"If you can't remember whether you had lunch,
+it could indicate a risk of dementia.",,"점심을 먹었는지가
+기억이 안 난다면 치매 위험이
+있다고 볼 수 있습니다.",
+ui_imi_intro,,,Motor Imagery Task consists of three sub-tests.,,"운동심상 검사(Motor
+Imagery Task)는 3개의
+소검사로 구성됩니다.",
+ui_imi_description_0,,,"1. Simple Reaction Time Test
+2. Imagery Rotation Test
+3. Response Inhibition Test",,"1. 간단한 반응속도 검사
+2. 심상회전 검사
+3. 반응억제 검사",
+ui_imi_description_1,,,It consists of a test where you guess which hand appears.,,"나타나는 손이 어느쪽 손인지
+맞추는 검사로 구성되어 있습니다.",
+ui_imi_description_2,,,<color=#effe00>You can proceed if you agree to the collection of personal information.</color>,,"<color=#effe00>개인정보 수집에 동의할 경우 
+진행</color>하실 수 있습니다.",
+ui_consent_label,,,Agree,,개인정보 수집동의,
+ui_imi_start_button_label,,,Consent to Collection of Personal Information,,개인정보 수집동의,
+ui_result,,,Results,,결과,
+ui_diagnosis_detail_button_label,,,Detail,,상세분석 보기,
+ui_diagnosis_other_test_start,,,Main,,다른 검사 하기,
+ui_diagnosis_normal,,,Normal,,정상 추정,
+ui_diagnosis_risk,,,Risk,,위험 추정,
+ui_diagnosis_high_risk,,,High Risk,,"고도 위험
+추정",
+ui_diagnosis_detail_label,,,Detail,,상세 결과,
+ui_diagnosis_reaction_time,,,Reaction Time,,반응시간,
+ui_imi_description_3,,,Well done. Only press when the triangle appears.,,"잘하셨습니다.
+삼각형이 나올 때만
+누르세요.",
+ui_imi_description_4,,,"For accurate test results, we will proceed once more.",,"정확한 검사 결과를 위해 
+
+한 번 더 진행하겠습니다",
+ui_imi_left_hand,,,Left Hand,,왼손,
+ui_imi_right_hand,,,Right Hand,,오른손,
+ui_imi_focus,,,Focus!,,집중하세요!,
+ui_explanation,,,Explanation,,설명,
+ui_imi_description_5,,,"A circle will appear in the center of the screen. Focus on the screen and watch carefully, then press the confirmation button below quickly when the circle appears.",,"화면 가운데에 동그라미가 
+나타납니다.
+화면을 집중하여
+잘보고 있다가 동그라미가
+나오면 재빠르게 아래에 있는
+확인 버튼을 누르세요.",
+ui_imi_description_6,,,Please guess which hand it is.,,"어느 손인지
+맞춰주세요",
+ui_imi_test_title_label,,,Motor Imagery 1,,운동심상 1,
+ui_retry,,,Retry,,다시하기,
+ui_dbs_intro,,,"This digital brain screening is a cognitive assessment program developed through collaborative research with Seoul St. Mary's Hospital of Catholic University and its faculty, utilizing MMSE (Mini-Mental State Examination) and dementia test questions.
+
+You can proceed if you agree to the collection of personal information, including diagnostic results.
+<color=#effe00>You can proceed if you agree to the collection of personal information.</color>",,"본 디지털 브레인 스크리닝은
+MMSE(간이정신상태검사)와 
+치매 검사 문항을 활용한 
+가톨릭대학교 서울성모병원 및 해당 교수진의 협력 연구를 통하여 개발된 
+인지 검사 프로그램입니다.
+진단 결과 등 <color=#effe00>개인정보 수집에 
+동의할 경우 진행</color>하실 수 있습니다.",
+ui_dbs_year,,, ,,년,
+ui_erase,,,Erase,,지우기,
+ui_dbs_result_help,,,"If you score 15 points or below out of a total of 25 points, <color=yellow>there may be a decline in cognitive abilities.</color>
+<size=40>(If cognitive decline continues, the risk of dementia is high.)</size>
+We recommend that you undergo a precise examination by a specialist.",,"총 25점 만점 중 <color=yellow>15점 이하면 
+인지능력 저하가 있을 수도 있습니다.</color>
+<size=40>(인지저하가 계속될 시 치매 위험성이 높습니다.) </size>
+전문가에게 정확한 검사를 
+받아보시는 것을 권장합니다.
+",
+ui_dbs_diagnosis_range_meanings,,,"20-25 Points: Estimated Safe Group
+16-19 Points: Estimated Risk Group
+0-15 Points: Estimated High-Risk Group",,"20~25점 : 안전군 추정
+16~19점 : 위험군
+ 추정
+0~15점 : 고도 위험군 추정",
+ui_dbs_diagnosis_range_meanings_title,,,Dementia Screening Criteria Table,,치매자가검사 기준표,
+ui_dbs_question_0,,,Remember the picture below,,아래 그림을 기억하세요,
+ui_dbs_question_1,,,How does it look when seen from above?,,위에서 보면 어떤 모습일까요?,
+ui_dbs_side_view_question,,,Here is the view from the side after stacking three shapes.,,"3개의 도형을 쌓고
+옆에서 본 모습입니다.",
+ui_question,,,Question,,질문,
+ui_ori_calendar_intro,,,Please prepare a calendar and solve together while looking at it.,,"    달력을 준비하시고
+함께 보면서 풀어보세요.",
+ui_ori_intro,,,The orientation test consists of actual questions after one practice problem. Questions about the concepts of date and time will be given.,,"지남력 검사는
+한번의 연습문제 진행 후
+실전 문제들로 구성되어 있습니다.
+날짜, 시간 개념의 문제가 출제됩니다.",
+ui_ori_result_wait,,,"Well done! 
+We are calculating the results, 
+please wait a moment.",,"잘 하셨습니다!
+결과 계산 중이니
+잠시만
+기다려주세요.",
+ui_ori_mon,,,Mon,,월,
+ui_ori_tue,,,Tue,,화,
+ui_ori_wed,,,Wed,,수,
+ui_ori_thu,,,Thu,,목,
+ui_ori_fri,,,Fri,,금,
+ui_ori_sat,,,Sat,,토,
+ui_ori_sun,,,Sun,,일,
+ui_day,,,Day,,일,
+ui_ori_calendar_tutorial_0,,,You can confirm that you have returned to the original calendar.,,"다시 원래 달력으로 돌아
+오신 것을 확인할 수
+있습니다.",
+ui_ori_practice,,,Practice Question,,연습문제입니다.,
+ui_ori_practice_question,,,What is <color=#FAFF00>the month and day</color> today?,,"오늘은 <color=#FAFF00>몇 월
+몇 일</color>인가요?",
+ui_ori_practice_label,,,<Practice Question>,,<연습문제>,
+ui_ori_practice_final,,,"Well done!
+
+Now, it's time for the real test.",,"잘 하셨습니다!
+
+이제 실전 검사
+입니다.",
+ui_ori_correct,,,"That's right! 
+Today is",,"맞아요! 오늘은
+
+
+
+입니다.",
+ui_game_start,,,Start,,시 작,
+ui_game_practice,,,Practice,,연습모드,
+ui_game_practice_quit,,,Do you want to exit Practice Mode?,,"연습모드를
+종료하시겠습니까?",
+ui_game_ability,,,This game requires the following abilities.,,이 게임은 아래의 능력을 요합니다.,
+ui_game_description_title,,,Tutorial,,게임 설명,
+ui_game_selection_level,,,Please select the difficulty level,,난이도를 선택해 주세요,
+ui_game_ready,,,Ready,,준비,
+ui_game_continue,,,Continue,,게임 계속 하기,
+ui_game_play_other_game,,,Play Another Game,,다른 게임 하기,
+ui_game_ability_help,,,This game stimulates the brain's <color=#ff5a01>temporal and frontal lobes</color> to help improve memory.,,"이 게임은 뇌의 <color=#ff5a01>측두엽과 전두엽</color>을
+자극하여 기억력 향상에 도움을
+줍니다.",
+ui_game_abililty_memory,,,Memory,,기억력,
+ui_game_ability_speed,,,Processing Speed,,처리속도,
+ui_game_ability_attention,,,Attention,,주의집중력,
+ui_game_memory_description,,,Memorize numbers and Korean characters in order,,"숫자와 한글을
+순서대로 기억하기",
+ui_game_attention_description,,,Determine if the picture above matches the one below.,,"위에 그림이 아래와
+일치하는지 판단하기",
+ui_game_ability_help_1,,,This game stimulates the brain's <color=#ff5a01>frontal and occipital lobes</color> to help improve concentration.,,"이 게임은 뇌의 <color=#ff5a01>전두엽과 후두엽</color>을
+자극하여 집중
+력 향상에 도움을
+줍니다.",
+ui_game_attention_help_0,,,Please understand the meaning of the letters.,,글자의 뜻을 이해해주세요,
+ui_game_attention_help_1,,,Please check the colors.,,색깔을 확인해주세요,
+ui_game_ability_solve,,,Problem-Solving Ability,,문제해결력,
+ui_game_matching_help,,,Match the Correct Name by Looking at the Picture,,"그림을 보고
+알맞은 이름 맞추기",
+ui_game_ability_help_2,,,This game stimulates the brain's <color=#ff5a01>temporal and frontal lobes</color> to help improve language skills.,,"이 게임은 뇌의 <color=#ff5a01>측두엽과 전두엽</color>을
+자극하여 언어력 향상에 도움을
+줍니다.",
+ui_game_calculation_help,,,Look at the numbers and perform addition and subtraction.,,"숫자를 보고
+더하기와 빼기",
+ui_game_ability_help_3,,,This game stimulates the brain's <color=#ff5a01>frontal lobe</color> to help improve calculation skills.,,이 게임은 뇌의 <color=#ff5a01>전두엽</color>을 자극하여 계산력 향상에 도움을 줍니다.,
+ui_game_find_shape_help_0,,,Please select the part where a different shape appeared that you just remembered.,,방금 기억한 다른모양이 나타났던 부분을 골라주세요.,
+ui_game_find_shape_help_1,,,Find the One Leaf with a Different Shape,,"모양이 다른 한 가지
+나뭇잎 찾기",
+ui_game_ability_help_4,,,This game stimulates the brain's <color=#ff5a01>frontal and occipital lobes</color> to help improve concentration.,,"이 게임은 뇌의 <color=#ff5a01>전두엽과 후두엽</color>을
+자극하여 집중력 향상에 도움을
+줍니다.",
+ui_game_card_my_hand,,,My Hand,,내가 가진 패,
+ui_game_card_table_cards,,,Cards on the Table,,바닥에 깔린 패,
+ui_game_card_help,,,Choose the card you can monopolize with your hand.,,"내가 가진 패로
+독점할 수 있는 패 고르기",
+ui_game_ability_help_5,,,This game stimulates the brain's <color=#ff5a01>temporal and frontal lobes</color> to help improve memory.,,"이 게임은 뇌의 <color=#ff5a01>측두엽과 전두엽</color>을
+자극하여 기억력 향상에 도움을
+줍니다.",
+ui_game_compare_help,,,Select the animal that is larger in real life.,,"현실에서 실제로 크기가
+더 큰 동물 선택하기",
+ui_game_ability_help_6,,,This game stimulates the brain's <color=#ff5a01>temporal lobe</color> to help improve processing speed.,,이 게임은 뇌의 <color=#ff5a01>측두엽</color>을 자극하여 처리속도 향상에 도움을 줍니다.,
+ui_game_black_stone_help_0,,,Please press the location of the black stones.,,검은 돌의 위치를 눌러주세요,
+ui_game_black_stone_help_1,,,It keeps increasing. Remember where the black Go stones are!,,"점점 더 많아집니다.
+검은 바둑돌이 어디 있는지 기억하세요!",
+ui_game_black_stone_help_2,,,Remember the positions of the black stones.,,"검은돌의 위치
+기억하기",
+ui_game_which_hand_help_0,,,The spinning disc is rotating. Focus on the picture when the rotation stops!,,"회전판이 돌아갑니다.
+회전이 멈추면 그림에 집중하세요!",
+ui_game_which_hand_help_1,,,Look at the shape of the hand and guess whether it's the left or right hand.,,"손의 모양을 보고 왼손인지
+오른손인지 맞추기",
+ui_game_ability_help_7,,,This game stimulates the brain's <color=#ff5a01>parietal lobe</color> to help improve spatial perception.,,"이 게임은 뇌의 <color=#ff5a01>두정엽</color>을
+자극하여 공간지각력 향상에
+도움을 줍니다.",
+ui_game_dig_jewel_description,,,Watch the passing gems and select the identical gem.,,"지나가는 보석을 보고
+똑같은 보석 선택하기",
+ui_game_direction_question,,,Which <color=#FF5A00>picture has a different direction</color>?,,"혼자 <color=#FF5A00>방향이 
+다른 그림</color>은 무엇인가요?",
+ui_game_direction_description,,,Find the picture facing a different direction.,,"바라보는 방향이
+다른 그림 찾기",
+ui_game_word_desripcion,,,Look at the word and arrange the consonants and vowels in order.,,"단어를 보고 자음과 모음
+순서대로 조합하기",
+ui_game_order_description,,,Watch the bill and calculate the cost of the meal.,,"계산서 보고
+음식 값 계산하기",
+ui_game_order_bill_title,,,Bill,,계 산 서,
+ui_game_order_discount_label,,,Discount,,할인,
+ui_game_question,,,Question,,질문,
+ui_game_opt_description,,,Find the location of objects by referring to the direction the doctor is looking at.,,"의사가 바라보고 있는 방향을
+참고해서 사물의 위치 찾기",
+ui_game_hint_label,,,View Hint,,힌트 보기,
+ui_game_item_count_suffix,,,x,,회,
+ui_game_pair_description,,,Find Pairs of Identical Pictures,,"서로 같은 그림
+짝 찾기",
+ui_game_pair_help,,,"When you can't remember the picture you first saw,
+please press 'View Hint' below.",,"처음 봤던 그림이 
+생각나지 않을 땐
+ 아래의 ‘힌트보기＇를 눌러주세요",
+ui_game_proverb_meaning_0,,,Explanation,,뜻 풀이,
+ui_game_proverb_meaning_1,,,Interpretation,,풀이,
+ui_game_point,,,View Score,,점수 보기,
+ui_game_close,,,Close,,닫기,
+ui_game_proverb_meaning_2,,,Proverb Meaning Explanation,,속담 뜻 풀이,
+ui_game_proverb_description,,,Fill in the missing words of proverbs and complete the sentences.,,"속담의 빠진 단어와
+문장 채우기",
+ui_game_push_button_description,,,Press the button only when the target object appears.,,"대상 물체가 나타날 때만
+버튼 누르기",
+ui_game_who_help_0,,,Please watch carefully and <color=#FFE400><b>remember</b></color>.,,잘 보고 <color=#FFE400><b>기억</b></color>해주세요.,
+ui_game_who_help_1,,,Please watch carefully and <color=#FFE400>remember</color>.,,잘 보고 <color=#FFE400>기억</color>해주세요.,
+ui_game_who_tutorial_name_0,,,Kim Cheolsu,,김철수,
+ui_game_who_help_2,,,Please watch carefully and verify.,,"잘 보고
+확인해주세요.",
+ui_game_who_tutorial_age,,,Age: 60s,,나이 : 60대,
+ui_game_who_tutorial_job_0,,,Occupation: Police Officer,,직업 : 경찰,
+ui_game_who_tutorial_question_0,,,Which statement is <color=#FE0000>correct</color> about <b>Mr. Kim Cheolsu</b>?,,"<b>김철수</b>씨에 대해
+<color=#FE0000>맞는</color> 문장은?",
+ui_game_who_tutorial_0_answer_0,,,He is in his 50s.,,나이는 50대이다,
+ui_game_who_tutorial_0_answer_1,,,His occupation is a police officer.,,직업은 경찰이다,
+ui_game_who_tutorial_name_1,,,Kim Younghee,,김영희,
+ui_game_who_tutorial_job_1,,,Occupation: Pharmacist,,직업 : 약사,
+ui_game_who_tutorial_hobby_0,,,Hobby: Walking,,취미 : 산책,
+ui_game_who_tutorial_question_1,,,Which statement is <color=#FE0000>incorrect</color> about <b>Ms. Kim Younghee</b>?,,"<b>김영희</b>씨에 대해
+<color=#FE0000>틀린</color> 문장은?",
+ui_game_who_tutorial_1_answer_0,,,She is in her 50s.,,나이는 50대이다,
+ui_game_who_tutorial_1_answer_1,,,Her occupation is a pharmacist.,,직업은 약사이다,
+ui_game_who_tutorial_1_answer_2,,,Her hobby is walking.,,취미는 산책이다,
+ui_game_who_help_3,,,"Please remember the <color=#FF0000><b>age, occupation, and hobby</b></color> of the person.",,"인물의 <color=#FF0000><b>나이, 직업, 취미</b></color>를, 기억해 주세요.",
+ui_game_who_description,,,Answer the questions while remembering the personal information.,,"인물정보를 기억한
+상태로 문제 맞추기",
+ui_game_ability_help_7,,,This game stimulates the brain's <color=#ff5a01>parietal lobe</color> to help improve concentration.,,"이 게임은 뇌의 <color=#ff5a01>두정엽</color>을
+자극하여 집중력 향상에
+도움을 줍니다.",
+ui_game_where_description,,,Find objects that would be in a specific place.,,"특정 장소에서
+있을 만한 물건 찾기",
+ui_game_ability_help_8,,,This game stimulates the brain's <color=#ff5a01>frontal and temporal lobes</color> to help improve memory and executive functions.,,"이 게임은 뇌의 <color=#ff5a01>전두엽과 측두엽</color>을
+자극하여 기억력과 집행능력에
+도움을 줍니다.",
+ui_game_where_is_it_guide_0,,,<color=yellow>Remember</color> the place !,,장소를 <color=yellow>기억</color>하세요!,
+ui_game_where_is_it_guide_1,,,Remember <color=yellow>all</color> of the places and <color=yellow>the right photos!,,장소와 <color=yellow>맞는 사진</color>을 <color=yellow>모두</color> 기억하세요!,
+ui_game_where_is_it_guide_2,,,Pick <color=yellow>anything</color> that <color=yellow>goes with the place!,,장소와 <color=yellow>어울리는 것</color>을 <color=yellow>모두</color> 고르세요!,
+ui_ox_quiz_title,,,Dementia Facts O.X Quiz,,치매 바로알기 O.X 퀴즈,
+ui_ox_quiz_correction_label,,,Correct,,정답입니다,
+ui_ox_quiz_wrong_label,,,Wrong,,틀렸습니다,
+ui_complete_today_training,,,Done,,완료,
+ui_language_logo,,,abc,,가,
+ui_which_hand_sign_stop,,,Stop,,멈춤,
+ui_register_signup_gender_male,,,Male,,남자,
+ui_register_signup_gender_female,,,Female,,여자,
