@@ -482,7 +482,7 @@ ui_ox_quiz_encourage_comment,,,Dementia can be prevented!,,"치매는 예방할 
 있답니다!",
 ui_ox_quiz_help_information,,, ,,"<color=#3f3f3f><size=70>지원상담</size></color>
 <color=#e4007f><size=70>1670-9979</size></color>",
-ui_ox_quiz_next,,,Next Question,,다음 문제,
+ui_ox_quiz_next,,,Submit,,다음 문제,
 ui_ox_quiz_how_to_play,,,How to Play O.X Quiz,,O.X 퀴즈 방법,
 ui_ox_quiz_tutorial,,,Read the question and press <color=#3b92ba>O if correct</color> <color=#c64236>X if incorrect</color>!,,"문제를 읽고, <color=#3b92ba>맞으면 O를
 </color>
