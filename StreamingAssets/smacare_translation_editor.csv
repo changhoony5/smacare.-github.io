@@ -344,14 +344,9 @@ It primarily occurs in individuals with hypertension or diabetes and may present
 뇌졸중 증상을 함께
 보이기도 합니다.",
 ui_know_dementia_description_step_6,,,③ Lewy Body Dementia,,③ 루이체 치매,
-ui_know_dementia_description_step_7,,,"It accounts for 10-25% of all dementia cases and is a type of dementia that presents with Parkinson's disease symptoms.
-Early detection is important as it responds well to medication treatment.",,"전체 치매의 10~25%를
+ui_know_dementia_description_step_7,,,It accounts for 10-25% of all dementia cases and is a type of dementia that presents with Parkinson's disease symptoms.,,"전체 치매의 10~25%를
 차지하며, 파킨슨병 증상을
-함께 보이는 치매입니다.
-
-약물 치료에 대한
-반응이 좋아 조기 발견이
-중요합니다.",
+함께 보이는 치매입니다.",
 ui_know_dementia_description_step_8,,,④ Alcoholic Dementia,,④ 알코올성 치매,
 ui_know_dementia_description_step_9,,,"Long-term excessive drinking can lead to dementia.
 Depending on the amount of alcohol consumed, it can develop as early as the 50s or after the 70s.",,"장기간 과음을
@@ -751,3 +746,13 @@ ui_language_logo,,,abc,,가,
 ui_which_hand_sign_stop,,,Stop,,멈춤,
 ui_register_signup_gender_male,,,Male,,남자,
 ui_register_signup_gender_female,,,Female,,여자,
+ui_mypage_dev_team,,,"Developed in collaboration with the medical staff of the Brain Health Centre at St. Mary's Hospital in Yeouido
+cognitive psychology research team at Catholic University",,"여의도 성모병원 뇌 건강센터 의료진과
+가톨릭대 인지심리 연구팀 공동 연구 개발",
+ui_recommand_user_behaviour,,,"The results of the 'various reports' are not a substitute for a professional medical evaluation, so please consult with <color=#0029FF><b>a medical professional</b></color> for <color=#FF0000><b>an accurate diagnosis</b></color>.",,"‘각종 보고서’의 결과 내용은 
+전문적인 의료 평가를 대체하지 못하므로, 
+<color=#0029FF><b>의료 전문가</b></color>와의 자세한 <color=#FF0000><b>상담</b></color>을 통해
+정확한 진단을 받아보세요.",
+ui_service_best_practice_guide_line,,,"Our Sma-Care service is provided for the purpose of simple self-checking/screening of cognitive function and its condition (please note that it is not intended for medical examination, confirmation or treatment of the same) and uses a cognitive programme (based on the MMSE-K, a screening tool for dementia, and adapted for online/mobile services) developed through collaborative research with St. Mary's Hospital, Catholic University of Korea and its faculty. Even if there is a positive or negative analysis or relevant information about your health condition through this service, we recommend that you seek medical treatment and/or counselling from a specialist, healthcare provider, or medical institution regarding your own health condition and health and hygiene risks or concerns.",,"당사의 스마케어 서비스는 인지 기능과 그 상태에 대한 간이한 자가 점검/스크리닝 목적으로 제공되고 있고(이와 관련 건강검진, 그 확인 또는 그 치료를 위한 것이 아님을 유의하시기 바랍니다), 가톨릭대학교 서울성모병원 및 그 교수진의  협력 연구를 통하여 개발된 인지프로그램(치매선별검사 도구인 MMSE-K를 기반으로 이를 온라인/모 바일 서비스에 적합하게 개발된 프로그램)이 사용되고 있습니다. 본 서비스를 통하여 이용자의 건강상태에 대한 긍정적 또는 부정적 분석이나 관련 정보가 있는 경우에도 이용자 자신의 건강상태 및 보건 위생상의 위해 여부 또 는 그 우려에 대하여는 전문의, 의료기관의 진료 및/또는 상담을 받아보시기를 권장합니다. ",
+ui_service_best_practice_simple_guide_line,,,We recommend that you have a professional by a professional.,,"전문가에게 정확한 검사를 
+받아보시는 것을 권장합니다.",
