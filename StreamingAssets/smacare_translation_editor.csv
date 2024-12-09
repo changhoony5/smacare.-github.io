@@ -282,8 +282,8 @@ ui_signup_welcome_greeting_response_1,,,Diagnose Dementia,,치매 진단하기,
 ui_purchase_coupon_button_label,,,Enter Coupon,,쿠폰 입력하기,
 ui_purchase_pass_description,,,The pass is,,이용권 사용은,
 ui_purchase_progress_check,,,Would you like to proceed with the purchase?,,구매를 진행하시겠습니까?,
-ui_purchase_warning,,,"※ After purchasing and using the pass, it cannot be refunded.",,※ 이용권을 구매하신 다음 사용하신 후에는 환불되지않습니다.,
-ui_purchase_button_label,,,Purchase Selected Pass,,선택한 이용권 구매,
+ui_purchase_warning,,,Remember the picture below,,※ 이용권을 구매하신 다음 사용하신 후에는 환불되지않습니다.,
+ui_purchase_button_label,,,Purchase it,,선택한 이용권 구매,
 ui_purchase_coupon_modal_title,,,Register Coupon,,쿠폰 등록하기,
 ui_purchase_coupon_digit,,,4 Digits,,4자리,
 ui_purchase_a_month_pass,,,1-Month Pass,,1개월 이용권,
@@ -562,8 +562,7 @@ We recommend that you undergo a precise examination by a specialist.",,"총 25�
 ui_dbs_diagnosis_range_meanings,,,"20-25 Points: Estimated Safe Group
 16-19 Points: Estimated Risk Group
 0-15 Points: Estimated High-Risk Group",,"20~25점 : 안전군 추정
-16~19점 : 위험군
- 추정
+16~19점 : 위험군 추정
 0~15점 : 고도 위험군 추정",
 ui_dbs_diagnosis_range_meanings_title,,,Dementia Screening Criteria Table,,치매자가검사 기준표,
 ui_dbs_question_0,,,Remember the picture below,,아래 그림을 기억하세요,
@@ -756,3 +755,4 @@ ui_recommand_user_behaviour,,,"The results of the 'various reports' are not a su
 ui_service_best_practice_guide_line,,,"Our Sma-Care service is provided for the purpose of simple self-checking/screening of cognitive function and its condition (please note that it is not intended for medical examination, confirmation or treatment of the same) and uses a cognitive programme (based on the MMSE-K, a screening tool for dementia, and adapted for online/mobile services) developed through collaborative research with St. Mary's Hospital, Catholic University of Korea and its faculty. Even if there is a positive or negative analysis or relevant information about your health condition through this service, we recommend that you seek medical treatment and/or counselling from a specialist, healthcare provider, or medical institution regarding your own health condition and health and hygiene risks or concerns.",,"당사의 스마케어 서비스는 인지 기능과 그 상태에 대한 간이한 자가 점검/스크리닝 목적으로 제공되고 있고(이와 관련 건강검진, 그 확인 또는 그 치료를 위한 것이 아님을 유의하시기 바랍니다), 가톨릭대학교 서울성모병원 및 그 교수진의  협력 연구를 통하여 개발된 인지프로그램(치매선별검사 도구인 MMSE-K를 기반으로 이를 온라인/모 바일 서비스에 적합하게 개발된 프로그램)이 사용되고 있습니다. 본 서비스를 통하여 이용자의 건강상태에 대한 긍정적 또는 부정적 분석이나 관련 정보가 있는 경우에도 이용자 자신의 건강상태 및 보건 위생상의 위해 여부 또 는 그 우려에 대하여는 전문의, 의료기관의 진료 및/또는 상담을 받아보시기를 권장합니다. ",
 ui_service_best_practice_simple_guide_line,,,We recommend that you have a professional by a professional.,,"전문가에게 정확한 검사를 
 받아보시는 것을 권장합니다.",
+ui_unlimited_pass_word,,,Unlimited,,무제한,
